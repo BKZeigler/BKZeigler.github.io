@@ -10,7 +10,7 @@ My GitHub page is http://github.com/BKZeigler.
 
 * Lab 3
 
-  Another lab I enjoyed was lab 3. In lab 3, part 2, we were trying to find the value of pizza for a given area and price and used black box testing. I liked doing this because it can easily be applied to real life. Often, many businesses compete for customers, and programs like this can provide who provides the best deal. Still, this doesn’t account for preference on where the pizza came from. Overall, the mass testing that can be done across hundreds and thousands of stores can help people choose an affordable and preferable option. This does not even have to be pizza; it can be anything with a value and amount.
+  One lab I enjoyed was lab 3. In lab 3, part 2, we were trying to find the value of pizza for a given area and price and used black box testing. I liked doing this because it can easily be applied to real life. Often, many businesses compete for customers, and programs like this can provide who provides the best deal. Still, this doesn’t account for preference on where the pizza came from. Overall, the mass testing that can be done across hundreds and thousands of stores can help people choose an affordable and preferable option. This does not even have to be pizza; it can be anything with a value and amount.
 
 * Lab 9
 
